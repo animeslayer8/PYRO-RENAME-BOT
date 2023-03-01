@@ -32,7 +32,7 @@
 
 ## Deploy To Heroku
 
-<a href="https://heroku.com/deploy?template=https://github.com/animeslayer8/PYRO-RENAME-BOTblob/heroku"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
+<a href="https://heroku.com/deploy?template=https://github.com/animeslayer8/PYRO-RENAME-BOT/heroku"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
 
 
 
